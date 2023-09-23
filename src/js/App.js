@@ -13,7 +13,6 @@ function App() {
       <Jumbotron />
       <Card />
       <Footer/>
-      <Footer/>
     </>
   )
 }
